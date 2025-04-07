@@ -57,7 +57,7 @@ An **Azure Function** with a **TimerTrigger** that runs every minute.
 - **Azure Functions**: 
   - **TimerTrigger** (for background tasks) and **HTTPTrigger** (for password validation)
   
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/TanveerShams-Arc/HMS_PROJECT.git
 ```
