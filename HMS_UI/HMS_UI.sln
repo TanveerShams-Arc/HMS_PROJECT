@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_UI", "HMS_UI\HMS_UI.csproj", "{3434BD6C-33CA-46D5-A725-7FF4B2551503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_API", "..\HMS_API\HMS_API\HMS_API.csproj", "{E27696EB-4EDB-7F3E-0483-16F1F8AD62D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_API_Tests", "..\HMS_API\HMS_API_Tests\HMS_API_Tests.csproj", "{55D8ABC5-376E-568B-58B9-D13E62AD2DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidationFunction", "..\PasswordValidationFunction\PasswordValidationFunction\PasswordValidationFunction.csproj", "{B7D5E320-1B17-69EC-4070-CDBB8F0BCA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3434BD6C-33CA-46D5-A725-7FF4B2551503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3434BD6C-33CA-46D5-A725-7FF4B2551503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3434BD6C-33CA-46D5-A725-7FF4B2551503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3434BD6C-33CA-46D5-A725-7FF4B2551503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27696EB-4EDB-7F3E-0483-16F1F8AD62D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27696EB-4EDB-7F3E-0483-16F1F8AD62D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27696EB-4EDB-7F3E-0483-16F1F8AD62D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27696EB-4EDB-7F3E-0483-16F1F8AD62D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D8ABC5-376E-568B-58B9-D13E62AD2DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D8ABC5-376E-568B-58B9-D13E62AD2DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D8ABC5-376E-568B-58B9-D13E62AD2DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D8ABC5-376E-568B-58B9-D13E62AD2DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D5E320-1B17-69EC-4070-CDBB8F0BCA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D5E320-1B17-69EC-4070-CDBB8F0BCA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D5E320-1B17-69EC-4070-CDBB8F0BCA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D5E320-1B17-69EC-4070-CDBB8F0BCA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548DA3BF-FD97-4FF6-8CC4-0E5568E78FB4}
+	EndGlobalSection
+EndGlobal

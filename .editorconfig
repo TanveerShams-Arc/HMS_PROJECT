@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# AZFW0002: Avoid async void methods
+dotnet_diagnostic.AZFW0002.severity = none
