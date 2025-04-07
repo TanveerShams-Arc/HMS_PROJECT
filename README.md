@@ -59,5 +59,5 @@ An **Azure Function** with a **TimerTrigger** that runs every minute.
   
 ### Clone the repository
 ```bash
-git clone https://github.com/TanveerShams-Arc/HMS_PROJECT.git
+git clone https://github.com/mts-wtag/HMS_PROJECT.git
 ```
